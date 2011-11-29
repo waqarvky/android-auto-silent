@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="version">Version 1.73</string>
+    <string name="creator">Created By Stephen Fuller</string>
+    <string name="bugsto">Please send Bug reports to : </string>
+    <string name="email">skflinux@gmail.com</string>
+    <string name="abouttxt">This App allows you to put your phone on silent based on day and time. To get started press menu on the main screen and select Add Profile. Profiles are displayed on the main screen. To remove a profile press on it and select yes to remove.  -    If you have any Problems or issues with this App please do not hesitate to contact me. When sending an email please include the App Name, Version number and a description of the problem. Also feel free to contact me for feature requests and suggestions. </string>
+    <string name="app_name">Auto Silent</string>
+    <string name="enableDisable">Enabled Disabled</string>
+    <string name="AddProfileActivityLabel">Auto Silent - Add Profile</string>
+    <string name="add_profile">Add Profile</string>
+    <string name="AddDayInfoTXT">Select a day</string>
+    <string name="addDay">Add Day</string>
+    <string name="startTimeInfo">Choose the start time for when you want your phone to go into silent mode</string>
+    <string name="startTime">Start Time</string>
+    <string name="endTimeInfo">Choose an end time for when you want your phone to come back out of silent mode</string>
+    <string name="endTime">End Time</string>
+    <string name="saveInfo">When you are happy with the settings press save profile</string>
+    <string name="save">Save Profile</string>
+    <string name="about">About</string>
+    <string name="saved">Profile Saved</string>
+    <string name="enterDay">Please choose a Day</string>
+    <string name="AboutActivityLabel">Auto Silent - About</string>
+    <string name="copyright">Auto Silent copyright 2011 - Stephen Fuller. | sssh logo image copyright 2010 - Karel Develop &amp; Stephen Fuller. | Auto Silent code is licenced under the GPL v3 (source currently available on request but will be made available online).</string>
+    <string name="Donate">If you like this app and find it useful and would like to see future improvements please consider donating by pressing here.</string>
+    </resources>
