@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/addProfileMnu" android:icon="@drawable/menu_add" android:title="Add Profile"/>
+    <item android:id="@+id/optionsMnu" android:icon="@drawable/menu_edit" android:title="Options"/>
+    <item android:id="@+id/aboutMnu" android:icon="@drawable/menu_info" android:title="About"/>
+</menu>
