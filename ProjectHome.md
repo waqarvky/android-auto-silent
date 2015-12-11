@@ -1,0 +1,1 @@
+This is a small app that puts your Android phone into silent mode based on day and time set by the user. I first created this app for myself while studying in college to silent my phone during classes. Please feel free to study this code and modify it. Any suggestions and improvements that can be made are most welcome.
